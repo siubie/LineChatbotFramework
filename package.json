@@ -21,7 +21,7 @@
     "express": "^4.16.3",
     "https-agent": "^1.0.0",
     "image-downloader": "^3.4.1",
-    "mongoose": "^5.2.9",
+    "mongoose": "^5.7.5",
     "node-cron": "^1.2.1",
     "request": "^2.88.0",
     "safe-eval": "^0.4.1",
