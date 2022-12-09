@@ -18,7 +18,7 @@
     "cherio": "^1.0.0-rc.2",
     "cloudinary": "^1.11.0",
     "download-file": "^0.1.5",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "https-agent": "^1.0.0",
     "image-downloader": "^3.4.1",
     "mongoose": "^5.2.9",
